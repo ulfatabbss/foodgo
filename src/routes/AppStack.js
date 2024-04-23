@@ -2,12 +2,14 @@ import {StyleSheet, Text, View} from 'react-native';
 
 import React from 'react';
 
-import Routes from './src/routes/Routes';
-
-const App = () => {
-  return <Routes />;
+const AppStack = () => {
+  return (
+    <View>
+      <Text>AppStack</Text>
+    </View>
+  );
 };
 
-export default App;
+export default AppStack;
 
 const styles = StyleSheet.create({});
