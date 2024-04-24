@@ -12,7 +12,7 @@ const Splash = () => {
         alignItems: 'center',
       }}>
       <Text style={{color: 'white', fontSize: 25, fontWeight: 'bold'}}>
-        Heloo
+        Heloo Mano Welecom
       </Text>
     </View>
   );
